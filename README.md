@@ -4,11 +4,12 @@
 **lalbanez/lalbanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on Atlantic Solutions
 - 🌱 I’m currently learning Spring/React Js
 - 👯 I’m looking to collaborate on Java Projects
 - 😄 Pronouns: ele/dele
+-->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/lalbanez/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalbanez&show_icons=true&theme=dark" />
