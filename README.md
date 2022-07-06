@@ -9,13 +9,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring/React Js
 - 👯 I’m looking to collaborate on Java Projects
 - 😄 Pronouns: ele/dele
-
-<a href="https://www.linkedin.com/in/lalbanez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalbanez&show_icons=true&theme=dark" />
-</a>
-<a href="https://www.linkedin.com/in/lalbanez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lalbanez/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalbanez&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/lalbanez/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  </a>
+</div>
 
 <div style="display:inline block">
   <br />
@@ -50,5 +51,6 @@ Here are some ideas to get you started:
   <br />
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />  dexter141#9767
   <br />
-  ![Snake animation](https://github.com/lalbanez/lalbanez/blob/output/github-contribution-grid-snake.svg)
+
+  <img src="https://github.com/lalbanez/lalbanez/blob/output/github-contribution-grid-snake.svg" /> 
 </div>
