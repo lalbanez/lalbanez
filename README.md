@@ -15,7 +15,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalbanez&show_icons=true&theme=dark" />
   </a>
   <a href="https://www.linkedin.com/in/lalbanez/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalbanez&layout=compact&theme=dark" />
   </a>
 </div>
 
